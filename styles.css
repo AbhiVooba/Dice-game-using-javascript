@@ -1,0 +1,58 @@
+body
+{
+  background-color: #3A1078;
+}
+h1
+{
+  color: #ffff;
+  margin: 50px 100px 50px 100px;
+  font-family : 'Shadows Into Light';
+  font-weight: 1000;
+  font-size: 5rem;
+
+}
+h3
+{
+  color: #CBE4DE;
+  margin: 50px;
+  font-family: 'Caveat';
+  font-size: 2rem;
+}
+
+.container
+{
+  text-align: center;
+  margin: auto;
+  position: relative;
+}
+.players
+{
+  display: inline-block;
+}
+footer
+{
+  margin-top:120px;
+  text-align: center;
+  color: #2F58CD;
+  font-family:'Caveat';
+  font-size: 1rem;
+}
+.diceimg
+{
+  width: 50%;
+}
+
+.Result
+{
+  font-size: 3rem;
+  font-family: 'Ubuntu';
+}
+a
+{
+  color: #ffff;
+  padding: : 500px;
+  font-family : 'Shadows Into Light';
+  font-weight: 1000;
+  font-size: 4rem;
+  text-decoration: none;
+}
